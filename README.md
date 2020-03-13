@@ -30,14 +30,18 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+ an object whch provides data for the browser to make a visual interface for us.
+
 2. What is an event?
 
+Whenever I do something on the page the broswer registers it and creates an event
+
 3. What is an event listener?
-
+A function that seeks a defined uinput like a mouseclick on a certain element and then performs a callback
 4. Why would we convert a NodeList into an Array?
-
+you cant do array some array methods on nodelists
 5. What is a component?
-
+A premade section of a webpage. It only needs to get data from a source and it will apply all styling needed to that data
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
