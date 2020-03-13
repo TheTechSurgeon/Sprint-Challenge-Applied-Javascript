@@ -7,3 +7,7 @@
 //
 //  The tab component should look like this:
 //    <div class="tab">topic here</div>
+
+console.log(axios.get("https://lambda-times-backend.herokuapp.com/topics"))
+
+
